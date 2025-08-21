@@ -4,11 +4,6 @@ criaCartao(
 'O primeiro presidente do Brasil foi  Marechal Deodoro da Fonseca.'
 )
 
-criaCartao(
-    'Biologia',
-    'Qual o maior do orgão do copo humano?',
-'A pele'
-)
 
 criaCartao(
     'Ciências',
